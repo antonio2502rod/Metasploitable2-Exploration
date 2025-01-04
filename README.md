@@ -26,3 +26,5 @@ This project is a part of my cybersecurity learning journey, focusing on vulnera
 
 ## Folder Structure
 The repository is organized as follows:
+   - poryect_1_port_scanning_w_nmap.ctb.pdf
+   - screenshots
